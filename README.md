@@ -1,6 +1,6 @@
 # Typography
 
-Typography for this note or all Markdown notes.
+Set typography for this note or all Markdown notes.
 
 ## Use
 

@@ -3,7 +3,7 @@
   "name": "Typography",
   "version": "3.0.0",
   "minAppVersion": "1.5.0",
-  "description": "Typography for this note or all Markdown notes.",
+  "description": "Set typography for this note or all Markdown notes.",
   "author": "dylanchid",
   "isDesktopOnly": false
 }
